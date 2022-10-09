@@ -1,0 +1,1 @@
+export const CREDS = {password: '12345', login: 'Admin'}
